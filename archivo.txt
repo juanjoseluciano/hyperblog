@@ -1,0 +1,5 @@
+cabecera del primer archivo
+
+cuerpo del archivo
+
+final del archivo.
