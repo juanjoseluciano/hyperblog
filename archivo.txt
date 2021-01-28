@@ -2,4 +2,4 @@ cabecera del primer archivo
 
 cuerpo del archivo para escritura
 
-final del archivo de escritura.
+final del archivo de escritura y lectura.
