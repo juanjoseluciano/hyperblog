@@ -1,5 +1,5 @@
 cabecera del primer archivo
 
-cuerpo del archivo para escritura
+cuerpo del archivo
 
-final del archivo de escritura y lectura.
+ultimo renglon del archivo txt
