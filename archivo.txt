@@ -1,5 +1,5 @@
 cabecera del primer archivo
 
-cuerpo del archivo
+cuerpo del archivo para escritura
 
 final del archivo.
